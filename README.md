@@ -1,9 +1,10 @@
-# Civic Issue Tracker
+# VoiceUP
+AI-powered Civic Issue Tracker enabling citizens to report problems like potholes, garbage, and streetlight faults via a PWA, with an admin dashboard for municipal staff. Features real-time updates, automated routing, analytics, image uploads, and ML-based issue classification using Node.js, Express, MongoDB, and GOOGLE MAPS API.
 
 A crowdsourced civic issue reporting and resolution system featuring a citizen-facing PWA and an admin dashboard for municipal staff.
 
 ## Tech Stack
-- Frontend: HTML, Tailwind CSS, JavaScript (PWA-ready), Leaflet, Chart.js
+- Frontend: HTML, Tailwind CSS, JavaScript (PWA-ready), Google Maps API, Chart.js
 - Backend: Node.js, Express, Socket.io
 - Database: MongoDB (Mongoose)
 - Cloud Storage: Cloudinary (default) or AWS S3 for images/audio
